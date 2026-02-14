@@ -1,0 +1,7 @@
+{
+  "name": "Industrial Data Insights - Siemens Replica",
+  "description": "A high-fidelity replica of the Siemens industrial interface focused on data science, PLC/SCADA acquisition, and manufacturing analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
